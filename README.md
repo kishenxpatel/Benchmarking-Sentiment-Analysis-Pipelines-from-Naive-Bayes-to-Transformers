@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-lightblue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-# Sentiment Analysis NLP Pipeline
+# Benchmarking Sentiment Analysis Pipelines, from Naïve Bayes to Transformers
 
 End-to-end sentiment analysis on the **Cornell Movie Review Dataset** (2,000 positive + 2,000 negative reviews), progressing from classical bag-of-words models to fine-tuned BERT transformers.
 
